@@ -23,6 +23,8 @@ The four functions above are stored within a flashcard deck called "positions.cs
 
 I recommend you learn the "positions" deck in order. I've ordered the deck roughly by how frequent the elements occur in the universe, so the first things you remember should be the most applicable to real life. This way, if you get bored and don't want to learn the deck anymore you've still maximized the value you'll have gotten out of it. 
 
+## Atomic Numbers and Symbols
+
 You might also be wondering what to do if you want to learn atomic numbers or symbols. I've created separate decks, "numbers.csv" and "symbols.csv", that store additional functions:
 
 * given an element, produce the element's symbol
@@ -34,4 +36,16 @@ So all told, our commutative diagram looks something like [this](https://q.uiver
 
 I recommend studying these at the same time you're going through the "positions" deck, and tweak the "New cards/day" setting for these decks to be half that of the "positions" deck. This way their content will keep sync as you go through them.
 
+## Atomic Weights
+
 Lastly, I don't have a deck for atomic weights, nor any other atomic properties, since these were never something I wanted to focus on. Atomic weights are much harder to remember, they are much less useful, and if pressed they can always be approximated by multiplying atomic number by two. I'm really hesitant to create a new deck for atomic weights, since I'm worried that inexperienced users will try to go through it anyway and will burn out having learned much less in the process. Fortunately though, I've uploaded all the script files I used to generate these decks, so enterprising Anki users can always create these decks if they want to.
+
+## Creating Your Own Decks
+
+The "positions", "numbers", and "symbols" decks are all generated from python scripts with those same names. These scripts are extremely simple. No requirements are needed to run these script besides Python 3, and all script output is sent to the command line. You'll have to pipe output manually to a csv file so that you can get something to upload to Anki, e.g.:
+
+```
+python3 positions.py > positions.csv
+```
+
+All scripts get their data from "tools.py", which parses the csv files in the directory and stores their contents into global variables. I have no intention to improve upon this process since the scripts are throwaway and their simplicity helps others get up and running.
