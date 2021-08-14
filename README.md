@@ -42,7 +42,7 @@ So all told, our commutative diagram looks something like [this](https://q.uiver
 
 ![](diagram.png)
 
-I recommend studying these at the same time you're going through the "positions" deck, and tweak the "New cards/day" setting for these decks to be half that of the "positions" deck. This way their content will keep sync as you go through them.
+I recommend studying these at the same time you're going through the "positions" deck, and tweak the "New cards/day" setting for these decks to be half that of the "positions" deck. This way their content will keep sync as long as you do all of them each day.
 
 ## Atomic Weights
 
