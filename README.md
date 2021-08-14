@@ -56,4 +56,4 @@ The "positions", "numbers", and "symbols" decks are all generated from python sc
 python3 positions.py > positions.csv
 ```
 
-All scripts get their data from "tools.py", which parses the csv files in the directory and stores their contents into global variables. I have no intention to improve upon this process since the scripts are throwaway and their simplicity helps others get up and running.
+All scripts get their data from "tools.py", which parses the csv files in the directory and stores their contents into global variables. I have no intention to improve upon this process since the scripts are throwaway and their simplicity makes it easier for others to get up and running.
