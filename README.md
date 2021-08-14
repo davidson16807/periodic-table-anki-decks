@@ -46,7 +46,7 @@ I recommend studying these at the same time you're going through the "positions"
 
 ## Atomic Weights
 
-Lastly, I don't have a deck for atomic weights, nor any other atomic properties, since these were never something I wanted to focus on. Atomic weights are much harder to remember, they are much less useful, and if pressed they can always be approximated by multiplying atomic number by two. I'm really hesitant to create a new deck for atomic weights, since I'm worried that inexperienced users will try to go through it anyway and will burn out having learned much less in the process. Fortunately though, I've uploaded all the script files I used to generate these decks, so enterprising Anki users can always create these decks if they want to.
+Lastly, I don't have a deck for atomic weights, nor any other atomic properties, since these were never something I wanted to focus on. Atomic weights are much harder to remember, they are much less useful, and if pressed they can always be approximated by multiplying atomic number by two. I'm really hesitant to create a new deck for atomic weights, since I'm worried that inexperienced users will try to go through it anyway and will burn out before completing the decks, having learned much less in the process. Fortunately though, I've uploaded all the script files I used to generate these decks, so enterprising Anki users can still create these decks if they want to.
 
 ## Creating Your Own Decks
 
