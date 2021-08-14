@@ -1,4 +1,4 @@
-# Visualization the Periodic Table with Anki
+# Visualizing the Periodic Table with Anki
 
 This is a collection of flashcard decks I generated so that I could study the periodic table. I wrote it for use with [Anki](https://apps.ankiweb.net/), but csv files are available for other flashcard applications, just as long as those applications support html and use the same syntax for cloze completions.
 
