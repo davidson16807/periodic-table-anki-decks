@@ -15,7 +15,7 @@ In the case of the periodic table, you might also want to know the element left 
 * given an element, produce the element to the left
 * given an element, produce the element to the right
 
-This works even better than a linked list, since now we have four functions that reinforce themselves. If you forget what element comes after Silicon, for instance, you might be able to trace your way around it: Carbon is above Silicon, Nitrogen comes after Carbon, and Phosphorus is beneath Nitrogen. 
+This works even better than a linked list, since now we have four functions that reinforce themselves. If you forget what element comes after Silicon, for instance, you might be able to trace your way around it: Carbon is above Silicon, Nitrogen comes after Carbon, and Phosphorus is beneath Nitrogen, so the answer must be Phosphorus.
 
 So in short, we're going to be learning how to visualize the table. 
 
