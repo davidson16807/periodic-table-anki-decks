@@ -50,7 +50,7 @@ Lastly, I don't have a deck for atomic weights, nor any other atomic properties,
 
 ## Creating Your Own Decks
 
-The "positions", "numbers", and "symbols" decks are all generated from python scripts with those same names. These scripts are extremely simple. No requirements are needed to run these script besides Python 3, and all script output is sent to the command line. You'll have to pipe output manually to a csv file so that you can get something to upload to Anki, e.g.:
+The "positions", "numbers", and "symbols" decks are all generated from python scripts with those same names. These scripts are extremely simple. No requirements are needed to run these script besides Python 3, and all script output is sent to the command line. You'll have to pipe output manually to a csv file so that you can upload results to Anki, e.g.:
 
 ```
 python3 positions.py > positions.csv
