@@ -19,7 +19,7 @@ This works even better than a linked list, since now we have four functions that
 
 So in short, we're going to be learning how to visualize the table. 
 
-The four functions above are stored within a flashcard deck called "positions.csv". It represents functions using close completions of elements as they would appear in the periodic table. This way, you can learn the periodic table using a combination of visual and textual cues, picking whichever you prefer to focus on. Elements are depicted using html to maximize portability: unlike other decks that contain images, this deck will render correctly if you take it to other computer using Anki's sync functionality. 
+The four functions above are stored within a flashcard deck called "positions.csv". It represents functions using close completions of elements as they would appear in the periodic table. This way, you can learn the periodic table using a combination of visual and textual cues, picking whichever you prefer to focus on, or leveraging both. Elements are depicted using html to maximize portability: unlike other decks that contain images, this deck will render correctly if you take it to another computer using Anki's sync functionality. 
 
 I recommend you learn the "positions" deck in order. I've ordered the deck roughly by how frequent the elements occur in the universe, so the first things you remember should be the most applicable to real life. This way, if you get bored and don't want to learn the deck anymore you've still maximized the value you'll have gotten out of it. 
 
