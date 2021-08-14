@@ -30,6 +30,8 @@ You might also be wondering what to do if you want to learn atomic numbers or sy
 * given an atomic number, produce the corresponding element
 * given an element, produce its atomic number
 
+So all told, our commutative diagram looks something like [this](https://q.uiver.app/?q=WzAsMTIsWzEsMSwiRWxlbWVudCJdLFsxLDIsIkVsZW1lbnQiXSxbMiwxLCJFbGVtZW50Il0sWzIsMiwiRWxlbWVudCJdLFsyLDAsIkVsZW1lbnQiXSxbMSwwLCJFbGVtZW50Il0sWzAsMCwiRWxlbWVudCJdLFswLDEsIkVsZW1lbnQiXSxbMCwyLCJFbGVtZW50Il0sWzQsMSwiRWxlbWVudCJdLFs0LDAsIk51bWJlciJdLFs0LDIsIlN5bWJvbCJdLFswLDFdLFsxLDAsImJvdHRvbSJdLFsxLDNdLFszLDFdLFszLDJdLFsyLDNdLFsyLDBdLFswLDIsInJpZ2h0IiwyXSxbMiw0XSxbNCwyXSxbNCw1XSxbNSw0XSxbNSwwXSxbMCw1LCJ0b3AiLDJdLFs1LDZdLFs2LDVdLFs2LDddLFs3LDZdLFs3LDhdLFs4LDddLFs3LDAsImxlZnQiXSxbOCwxXSxbMSw4XSxbOSwxMV0sWzExLDldLFs5LDEwXSxbMTAsOV0sWzAsMzIsIiIsMSx7ImxldmVsIjoxfV1d)
+
 I recommend studying these at the same time you're going through the "positions" deck, and tweak the "New cards/day" setting for these decks to be half that of the "positions" deck. This way their content will keep sync as you go through them.
 
 Lastly, I don't have a deck for atomic weights, nor any other atomic properties, since these were never something I wanted to focus on. Atomic weights are much harder to remember, they are much less useful, and if pressed they can always be approximated by multiplying atomic number by two. I'm really hesitant to create a new deck for atomic weights, since I'm worried that inexperienced users will try to go through it anyway and will burn out having learned much less in the process. Fortunately though, I've uploaded all the script files I used to generate these decks, so enterprising Anki users can always create these decks if they want to.
