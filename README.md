@@ -1,4 +1,10 @@
-# Visualizing the Periodic Table
+# Visualization the Periodic Table with Anki
+
+This is a collection of flashcard decks I generated so that I could study the periodic table. I wrote it for use with [Anki](https://apps.ankiweb.net/), but csv files are available for other flashcard applications, so long as those applications support html and Anki's cloze completion syntax.
+
+I've had great luck going through these decks. I've gone through them several times now in Anki, all but a few cards have review intervals on the order of months, and now I think it's ready to share with others.
+
+## Introduction 
 
 This is not designed to be one of those pointless periodic table decks where you memorize obscure numbers for every element. It teaches the most important concept you have to remember: the behavior of chemical elements. 
 
@@ -19,7 +25,7 @@ This works even better than a linked list, since now we have four functions that
 
 So in short, we're going to be learning how to visualize the table. 
 
-The four functions above are stored within a flashcard deck called "positions.csv". It represents functions using close completions of elements as they would appear in the periodic table. This way, you can learn the periodic table using a combination of visual and textual cues, picking whichever you prefer to focus on, or leveraging both. Elements are depicted using html to maximize portability: unlike other decks that contain images, this deck will render correctly if you take it to another computer using Anki's sync functionality. 
+The four functions above are stored within a flashcard deck called "positions.csv". It represents functions using cloze completions of elements as they would appear in the periodic table. This way, you can learn the periodic table using a combination of visual and textual cues, picking whichever you prefer to focus on, or leveraging both. Elements are depicted using html to maximize portability: unlike other decks that contain images, this deck will render correctly if you take it to another computer using Anki's sync functionality. 
 
 I recommend you learn the "positions" deck in order. I've ordered the deck roughly by how frequent the elements occur in the universe, so the first things you remember should be the most applicable to real life. This way, if you get bored and don't want to learn the deck anymore you've still maximized the value you'll have gotten out of it. 
 
