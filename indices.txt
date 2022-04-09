@@ -18,7 +18,7 @@
 18	argon
 19	potassium
 20	calcium
-21	scadium
+21	scandium
 22	titanium
 23	vanadium
 24	chromium

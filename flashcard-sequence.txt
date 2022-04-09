@@ -24,7 +24,7 @@ magnesium
 potassium
 calcium
 
-scadium
+scandium
 titanium
 vanadium
 chromium
