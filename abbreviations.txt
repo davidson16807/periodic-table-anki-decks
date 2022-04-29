@@ -18,7 +18,7 @@ Cl 	chlorine
 Ar 	argon
 K 	potassium
 Ca 	calcium
-Sc 	scadium
+Sc 	scandium
 Ti 	titanium
 V 	vanadium
 Cr 	chromium

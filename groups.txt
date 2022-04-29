@@ -94,7 +94,7 @@ zirconium
 hafnium
 rutherfordium
 
-scadium
+scandium
 yttrium
 lutetium
 lawrencium
